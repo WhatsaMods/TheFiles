@@ -9,22 +9,22 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "http://webs.redirectme.net/mod/mod-es-d.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-es-d.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "http://webs.redirectme.net/mod/mod-en-d.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-en-d.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "http://webs.redirectme.net/mod/mod-es-l.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-es-l.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "http://webs.redirectme.net/mod/mod-en-l.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-en-l.html"
 				}
 			]
 		},
@@ -37,22 +37,22 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "http://webs.redirectme.net/mod/mod-es-d.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-es-d.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "http://webs.redirectme.net/mod/mod-en-d.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-en-d.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "http://webs.redirectme.net/mod/mod-es-l.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-es-l.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "http://webs.redirectme.net/mod/mod-en-l.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-en-l.html"
 				}
 			]
 		},
@@ -65,22 +65,22 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "http://webs.redirectme.net/mod/mod-es-d.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-es-d.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "http://webs.redirectme.net/mod/mod-en-d.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-en-d.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "http://webs.redirectme.net/mod/mod-es-l.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-es-l.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "http://webs.redirectme.net/mod/mod-en-l.html"
+					"changelog": "https://github.com/WhatsaMods/TheFiles/raw/master/x/git/mod-en-l.html"
 				}
 			]
 		}
