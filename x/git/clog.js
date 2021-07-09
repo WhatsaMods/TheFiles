@@ -1,7 +1,7 @@
 {
 	"packages": [
 		{	
-			"version": "2.21.14.17",
+			"version": "2.21.14.16",
 			"package": "com.xwhatsapp",
 			"title": "XWhatsApp",
 			"download": "https://github.com/WhatsaMods/TheFiles/raw/master/x/x2.21.14.16.apk",
